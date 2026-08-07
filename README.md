@@ -24,4 +24,11 @@
   <p> EstudLive: Co-founder <br> Closed project with the objective of making study fun</p>
   ...
   </li>
+
+<div align="center" name="tittle">
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=100&duration=2000&pause=500&color=2C8305&center=true&vCenter=true&width=435&lines=Streak" alt="Typing SVG" />
+</div>
   
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=github-dark&hide_border=true"/>
+</div>
