@@ -2,8 +2,8 @@
   <h1>Whoami</h1>
 </div>
 
-<div align="center"> 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial&weight=100&duration=2000&pause=500&color=2C8305&width=435&lines=Programing" alt="Typing SVG" /></a>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=100&duration=2000&pause=500&color=2C8305&center=true&vCenter=true&width=435&lines=Programming" alt="Typing SVG" />
 </div>
 
 <div align="center">
